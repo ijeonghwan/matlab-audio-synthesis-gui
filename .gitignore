@@ -1,0 +1,31 @@
+# MATLAB generated files and local session state
+*.asv
+*.m~
+*.autosave
+*.mex*
+*.slxc
+*.prj
+slprj/
+codegen/
+resources/project/
+matlab.mat
+*.log
+
+# Locally generated or imported audio (keep source code reproducible)
+*.wav
+*.mp3
+*.flac
+*.m4a
+*.aiff
+outputs/
+
+# Editor / operating-system files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local credentials/configuration
+.env
+.env.*
+!.env.example
